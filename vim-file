@@ -1,0 +1,9 @@
+set hls
+set autoindent
+set tabstop=4
+set shiftwidth=4
+set ic
+set laststatus=2
+syntax on
+set cursorline
+colorscheme darkblue
